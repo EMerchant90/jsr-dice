@@ -14,6 +14,6 @@ Use the html and css code included in the starter code folder to get started.
     * get the first die by ID and update the class to secondDie (hint:document.getElementById)
 
 3)  Check to see if the "Roll the Dice" button has been clicked; if it has, run the diceRoll function 
-    (hint: document.getEl.
+    (hint: document.getElementById)
 
 */
